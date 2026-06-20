@@ -1,11 +1,14 @@
 # API keys — never commit these
 .env
 
+# files
+BUILD_LOG.md
+
 # Python
 __pycache__/
 *.py[cod]
 *.egg-info/
-.venv/
+.ai201-proj2/
 venv/
 env/
 
